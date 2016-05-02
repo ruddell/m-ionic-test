@@ -1,0 +1,18 @@
+{
+  "generator-m-ionic": {
+    "answers": {
+      "appName": "test",
+      "appId": "com.jruddell.test",
+      "ionicCss": false,
+      "bowerPackages": [
+        "localforage#~1.4.0"
+      ],
+      "platforms": [],
+      "plugins": [
+        "cordova-plugin-device"
+      ],
+      "appModule": "test",
+      "ecosystems": []
+    }
+  }
+}
